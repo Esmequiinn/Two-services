@@ -187,6 +187,19 @@
       "contentLanguage": ["ar", "en"]
     },
     {
+      "id": "cinefreak",
+      "name": "CineFreak",
+      "description": "Direct MKV streams from cinefreak.nl",
+      "version": "1.0.0",
+      "author": "piratezoro9",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/cinefreak.js",
+      "enabled": true,
+      "formats": ["mkv", "mp4"],
+      "logo": "https://i.postimg.cc/rpDB2284/cinefreak.png",
+      "contentLanguage": ["en", "hi"]
+    },
+    {
       "id": "cinemm",
       "name": "CineMM",
       "description": "Direct MP4 streams from cinemm.com — Next.js RSC API, quota bypass, multi-CDN (stream.cmreel.com, stream.cmapp.tv)",
