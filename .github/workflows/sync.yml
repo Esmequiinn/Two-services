@@ -23,7 +23,7 @@ jobs:
 
       - name: Add upstream
         run: |
-          git remote add upstream https://github.com/KennethJYS/Nuvio-Providers-Latino.git
+          git remote add upstream https://github.com/D3adlyRocket/All-in-One-Nuvio.git
           git fetch upstream
 
       - name: Sync upstream
