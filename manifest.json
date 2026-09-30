@@ -453,25 +453,6 @@
       "contentLanguage": ["fr", "en"]
     },
     {
-      "id": "netmirror",
-      "name": "NetMirror",
-      "description": "Streaming links from netmirror.",
-      "version": "1.0.10",
-      "author": "Nuvio Team",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/netmirror.js",
-      "enabled": true,
-      "hasSettings": true,
-      "logo": "https://net22.cc/favicon.ico",
-      "contentLanguage": [
-        "en"
-      ],
-      "supportsExternalPlayer": false
-    },
-    {
       "id": "persianstremio",
       "name": "🌸 PersianStremio",
       "description": "Persian Stremio plugin for movies, series,and Persian media content in Iranian & English.",
