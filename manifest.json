@@ -411,20 +411,6 @@
       "contentLanguage": ["en", "hi", "ta"]
     },
     {
-      "id": "movix",
-      "name": "Movix VF",
-      "description": "Movies and TV series in English & French (dubbed/subtitled)",
-      "version": "1.0.0",
-      "author": "wooodyhood",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/movix.js",
-      "enabled": true,
-      "hasSettings": true,
-      "formats": ["mp4", "m3u8"],
-      "logo": "https://i.postimg.cc/XYrPQm87/movix.png",
-      "contentLanguage": ["en", "fr"]
-    },
-    {
       "id": "nakios",
       "name": "Nakios",
       "description": "Mainly French, Some English & 4K Quality",
